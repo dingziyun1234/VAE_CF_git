@@ -5,4 +5,5 @@
  数据处理 VAE_CF_pre.py , 模型搭建 VAE_CF_model.py , 模型训练 VAE_CF_train.py , 预测 VAE_CF_main.py
 
  处理数据格式 {user_id,item_id,rat}
+
  评估函数：DCG@R、Recall@R
